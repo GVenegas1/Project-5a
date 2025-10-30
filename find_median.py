@@ -25,6 +25,6 @@ def find_median(numbers):
         return (numbers[middle - 1] + numbers[middle]) / 2
 
 #example used
-some_nums=[13,7,-3,82,4]
-result= find_median(some_nums)
-print("The medium is:", result)
+#some_nums=[13,7,-3,82,4]
+#result= find_median(some_nums)
+#print("The medium is:", result)
